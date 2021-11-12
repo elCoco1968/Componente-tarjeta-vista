@@ -106,7 +106,7 @@ body{
         flex-direction: row;
         width: 80%;
         max-width: 900px;
-        height: 60vh;
+        height: auto;
         margin: 9rem auto;
        
     }
